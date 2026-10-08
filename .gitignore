@@ -1,0 +1,35 @@
+# === Folder dataset (jangan upload CSV ke GitHub) ===
+data/*.csv
+data/*.zip
+
+# === Folder model (file besar) ===
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# === Credential Kaggle (PENTING!) ===
+kaggle.json
+.kaggle/
+
+# === Virtual environment ===
+venv/
+.venv/
+env/
+
+# === Python cache ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# === Jupyter Notebook checkpoints ===
+.ipynb_checkpoints/
+
+# === VS Code ===
+.vscode/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
