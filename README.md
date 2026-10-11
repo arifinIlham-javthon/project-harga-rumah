@@ -17,6 +17,19 @@ Project machine learning untuk memprediksi harga rumah di Indonesia berdasarkan 
 
 **Model terbaik:** Random Forest dengan R² = **91,83%**
 
+## 📸 Screenshot
+
+### 1. Evaluasi Model Random Forest
+![Evaluasi Random Forest](screenshots/01_hasil_evaluasi.png)
+
+### 2. Perbandingan Linear Regression vs Random Forest
+![Perbandingan Model](screenshots/02_hasil_perbandingan_model.png)
+
+### 3. Prediksi Rumah Baru
+![Prediksi Rumah Baru](screenshots/03_prediksi_rumah_baru.png)
+
+![Hasil Prediksi](screenshots/04_hasil_prediksi_rumah_baru.png)
+
 ## 📁 Struktur Project
 
 ```
